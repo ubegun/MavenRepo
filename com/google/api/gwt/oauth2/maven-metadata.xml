@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.api.gwt</groupId>
+  <artifactId>com.google.api.gwt.oauth2</artifactId>
+  <versioning>
+    <release>2.0.2.alpha</release>
+    <versions>
+      <version>2.0.2.alpha</version>
+    </versions>
+    <lastUpdated>20160714000000</lastUpdated>
+  </versioning>
+</metadata>
