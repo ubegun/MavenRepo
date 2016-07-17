@@ -2,5 +2,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.api</groupId>
   <artifactId>gwt-oauth2</artifactId>
-  <version>0.2.alpha</version>
+  <version>0.2-alpha</version>
 </project>		
